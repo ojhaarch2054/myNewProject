@@ -1,1 +1,1 @@
-console.log("This is my new project");
+console.log(" Updated This is my new project");
